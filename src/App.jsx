@@ -12,8 +12,8 @@ function App() {
     <>
    
     <Container/>
-    {/* <Header/> */}
-    {/* <Sidebar/> */}
+    {<Header/>}
+    {<Sidebar/>}
     </>
   )
 }
